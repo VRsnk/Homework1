@@ -1,5 +1,0 @@
-commit 07f7f0ecf4b9fd0c877ef030e004d340fda0ba0d (HEAD -> master, tag: v1.0, Lesson-2, Lesson-1)
-Author: Volodymyr Rusynyk <zonner88@gmail.com>
-Date:   Sat Apr 14 00:35:53 2018 +0300
-
-    Files added to master
