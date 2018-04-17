@@ -1,0 +1,42 @@
+commit 2eb0f2da193c9c2ad7f916fc8d63ce286bd6629f (HEAD -> master, githubRepo/master)
+Merge: 0d1a2a7 c1f601e
+Author: Volodymyr Rusynyk <zonner88@gmail.com>
+Date:   Tue Apr 17 23:18:06 2018 +0300
+
+    All changes fetched and merged
+
+commit 0d1a2a7de5db54c178ea6b7b11909e942411ac2f
+Author: Volodymyr Rusynyk <zonner88@gmail.com>
+Date:   Tue Apr 17 23:12:50 2018 +0300
+
+    All changes fetched and merged
+
+commit c8450b9c080af333ee3fc41b01e3d8bc1fc3df78
+Author: Volodymyr Rusynyk <zonner88@gmail.com>
+Date:   Tue Apr 17 22:59:49 2018 +0300
+
+    Gitignore edited
+
+commit c1f601ed23da1df049efcc833090345cfc656aa5
+Author: Volodymyr Rusynyk <zonner88@gmail.com>
+Date:   Tue Apr 17 16:09:06 2018 +0300
+
+    Delete Homework2.pages.pdf
+
+commit f950d4cf82309547da74914689a6f10c91c99427
+Author: Volodymyr Rusynyk <zonner88@gmail.com>
+Date:   Tue Apr 17 16:08:47 2018 +0300
+
+    Delete Homework1.pages.pdf
+
+commit 82c5abefa8542d7f2ee8594a7dae12ae9f4d12bf
+Author: Volodymyr Rusynyk <zonner88@gmail.com>
+Date:   Tue Apr 17 16:08:34 2018 +0300
+
+    Delete .gitignore
+
+commit 07f7f0ecf4b9fd0c877ef030e004d340fda0ba0d (tag: v1.0)
+Author: Volodymyr Rusynyk <zonner88@gmail.com>
+Date:   Sat Apr 14 00:35:53 2018 +0300
+
+    Files added to master
